@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/severtry.py" line="37" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0b870b12-654b-4b8a-8c56-d09664bf8150" name="Default" comment="" />
+    <list default="true" id="0b870b12-654b-4b8a-8c56-d09664bf8150" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Main.py" afterPath="$PROJECT_DIR$/Main.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,11 +19,21 @@
       <file leaf-file-name="Main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2001">
-              <caret line="69" column="11" lean-forward="false" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
+            <state relative-caret-position="311">
+              <caret line="137" column="38" lean-forward="false" selection-start-line="137" selection-start-column="38" selection-end-line="137" selection-end-column="38" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pipline.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hyperlpr_py3/pipline.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-351">
+              <caret line="138" column="24" lean-forward="false" selection-start-line="138" selection-start-column="24" selection-end-line="138" selection-end-column="24" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -41,7 +53,7 @@
       <file leaf-file-name="raw_Main2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/raw_Main2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="966">
+            <state relative-caret-position="5481">
               <caret line="198" column="8" lean-forward="false" selection-start-line="198" selection-start-column="8" selection-end-line="198" selection-end-column="8" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
@@ -110,6 +122,9 @@
       <replace>2</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -131,16 +146,16 @@
         <option value="$PROJECT_DIR$/raw_Main2.py" />
         <option value="$PROJECT_DIR$/easyEXCEL.py" />
         <option value="$PROJECT_DIR$/easyExcel.py" />
-        <option value="$PROJECT_DIR$/Main.py" />
         <option value="$PROJECT_DIR$/grade_process.py" />
+        <option value="$PROJECT_DIR$/Main.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="596" />
-    <option name="y" value="31" />
-    <option name="width" value="1420" />
-    <option name="height" value="938" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="29" />
+    <option name="y" value="13" />
+    <option name="width" value="976" />
+    <option name="height" value="1038" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -163,8 +178,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="new Python3 车牌识别 - 副本" type="b2602c69:ProjectViewProjectNode" />
-              <item name="new Python3 车牌识别 - 副本" type="462c0819:PsiDirectoryNode" />
+              <item name="BMW4S-LPR" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BMW4S-LPR" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -318,27 +333,27 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="596" y="31" width="1420" height="938" extended-state="0" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19019316" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14002146" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33359873" sideWeight="0.42845786" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33423546" sideWeight="0.57154214" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5358209" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33423546" sideWeight="0.57154214" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32979977" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -353,56 +368,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/13.jpg" />
     <entry file="file://$PROJECT_DIR$/wxpy_uploader.py" />
-    <entry file="file://$PROJECT_DIR$/cache/finemapping/f981ebc0.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cache/finemapping/9bd0518c.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cache/finemapping/0eca0c55.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cache/finemapping/b809c5d9.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cache/finemapping/a2302f3d.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cache/finemapping/084528ed.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cache/finemapping/76cf8ae9.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cache/finemapping/014b38eb.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cache/finemapping/3c76e0ec.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cache/finemapping/2c08dfcd.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/cache/finemapping/f981ebc0.png" />
+    <entry file="file://$PROJECT_DIR$/cache/finemapping/9bd0518c.png" />
+    <entry file="file://$PROJECT_DIR$/cache/finemapping/0eca0c55.png" />
+    <entry file="file://$PROJECT_DIR$/cache/finemapping/b809c5d9.png" />
+    <entry file="file://$PROJECT_DIR$/cache/finemapping/a2302f3d.png" />
+    <entry file="file://$PROJECT_DIR$/cache/finemapping/084528ed.png" />
+    <entry file="file://$PROJECT_DIR$/cache/finemapping/76cf8ae9.png" />
+    <entry file="file://$PROJECT_DIR$/cache/finemapping/014b38eb.png" />
+    <entry file="file://$PROJECT_DIR$/cache/finemapping/3c76e0ec.png" />
+    <entry file="file://$PROJECT_DIR$/cache/finemapping/2c08dfcd.png" />
     <entry file="file://$PROJECT_DIR$/F100.jpg" />
     <entry file="file://C:/Python36/Lib/site-packages/xlrd/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -535,13 +510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hyperlpr_py3/pipline.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="138" column="24" lean-forward="false" selection-start-line="138" selection-start-column="24" selection-end-line="138" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://C:/Python36/Lib/base64.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="735">
@@ -575,25 +543,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grade_process.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="593">
-          <caret line="31" column="0" lean-forward="true" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/grade_process.py" />
     <entry file="file://$PROJECT_DIR$/cal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="522">
           <caret line="18" column="18" lean-forward="false" selection-start-line="18" selection-start-column="18" selection-end-line="18" selection-end-column="18" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/raw_Main2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="966">
+        <state relative-caret-position="5481">
           <caret line="198" column="8" lean-forward="false" selection-start-line="198" selection-start-column="8" selection-end-line="198" selection-end-column="8" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
@@ -601,10 +561,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/hyperlpr_py3/pipline.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-351">
+          <caret line="138" column="24" lean-forward="false" selection-start-line="138" selection-start-column="24" selection-end-line="138" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2001">
-          <caret line="69" column="11" lean-forward="false" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
+        <state relative-caret-position="311">
+          <caret line="137" column="38" lean-forward="false" selection-start-line="137" selection-start-column="38" selection-end-line="137" selection-end-column="38" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>

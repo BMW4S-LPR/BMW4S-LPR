@@ -74,6 +74,9 @@ def getpic(hkcam, Name, turn):
 	return usetime[turn]
 
 def startCollectThread(turn):
+	nowtime = time.time()
+	reclist = []
+	pos = 0
 	while True:
 		global flag, usetime, pic, startcollect, recres, connlist
 		i = turn
@@ -129,19 +132,23 @@ def startCollectThread(turn):
 				recres = pp.SimpleRecognizePlate(image)
 
 				print("{}: result:	{}".format(Name, recres))
+				if time.time() - nowtime > 10000:
+					nowtime = time.time()
+					if len(recres) > 0:
+						reclist += [str(time.localtime(time.time())) + " : " + str(recres)]
 
 				# 将结果写入Excel: out.xls
 				try:
 					rb = open_workbook('out.xls')
 					wb = copy(rb)
 					wb.get_sheet(0).write(turn, 0, IPAddress)
-					for j in range(5):
-						wb.get_sheet(0).write(turn, j + 1, '')
-					for j in range(len(recres)):
+					for j in range(pos, len(reclist)):
 						wb.get_sheet(0).write(turn, j + 1, str(recres[j][0]) + " " + str(recres[j][1]) + ' ' + (" ".join(str(_) for _ in recres[j][2])))
+						pos = j
+
 					# 写入Excel数据格式：
-					# IP地址	1	识别结果1 置信度1 左上角x坐标 左上角y坐标 右下角x坐标 右下角y坐标		识别结果2 置信度2 左上角x坐标 左上角y坐标 右下角x坐标 右下角y坐标......
-					# IP地址	2	识别结果1 置信度1 左上角x坐标 左上角y坐标 右下角x坐标 右下角y坐标		识别结果2 置信度2 左上角x坐标 左上角y坐标 右下角x坐标 右下角y坐标......
+					# IP地址	1	时间1: 识别结果1 置信度1 左上角x坐标 左上角y坐标 右下角x坐标 右下角y坐标		时间2: 识别结果2 置信度2 左上角x坐标 左上角y坐标 右下角x坐标 右下角y坐标......
+					# IP地址	2	时间1: 识别结果1 置信度1 左上角x坐标 左上角y坐标 右下角x坐标 右下角y坐标		时间2: 识别结果2 置信度2 左上角x坐标 左上角y坐标 右下角x坐标 右下角y坐标......
 					# ............
 					wb.save('out.xls')
 					print('{}: Excel写入成功'.format(Name))
