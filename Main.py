@@ -14,7 +14,7 @@ from xlrd import open_workbook
 statedict = {}
 
 SEGKEY = "---"		
-
+# its a try
 catch_Interval = 0  # 设置抓图间隔，单位s
 timeOut = 10  # 设置抓图超时时间，单位s
 IPList = ["192.168.0.101"]		# 摄像机群的IP地址列表
