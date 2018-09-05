@@ -1,0 +1,56 @@
+[2018-09-04 00:01:03.060][INF] The COM:Core ver is 5.3.5.46, 2018_05_18. Async:1.
+[2018-09-04 00:01:03.060][DBG] CCoreGlobalCtrl::GetHCNetUtilsAPI, new HCNetUtilsAPI SUCC
+[2018-09-04 00:01:03.060][ERR] CCoreGlobalCtrl::GetHCNetUtilsAPI, Init, Failed
+[2018-09-04 00:01:03.060][DBG] CCoreGlobalCtrl::GetHCNetUtilsAPI, m_pHCNetUtilsAPI[796541984]
+[2018-09-04 00:01:03.060][ERR] NET_UTILS_SetLogToFileEx Failed!
+[2018-09-04 00:01:03.060][INF] This hcnetsdk ver is 5.3.5.46 Ver 2018_05_18.
+[2018-09-04 00:01:03.073][DBG] load[D:\杂项\学科学习\深度学习\new Python3 车牌识别 - 副本\lib_new\win64\HCNetSDKCom/HCVoiceTalk.dll] succ
+[2018-09-04 00:01:03.073][INF] AbilityAnalyze---Init-- start
+[2018-09-04 00:01:03.083][INF] The COM:VoiceTalk ver is 5.3.5.46, 2018_05_18.
+[2018-09-04 00:01:03.084][DBG] load[D:\杂项\学科学习\深度学习\new Python3 车牌识别 - 副本\lib_new\win64\HCNetSDKCom/HCGeneralCfgMgr.dll] succ
+[2018-09-04 00:01:03.085][INF] The COM:HCGeneralCfgMgr ver is 5.3.5.46, 2018_05_18.
+[2018-09-04 00:01:03.085][DBG] load[D:\杂项\学科学习\深度学习\new Python3 车牌识别 - 副本\lib_new\win64\HCNetSDKCom/HCPlayBack.dll] succ
+[2018-09-04 00:01:03.085][INF] The COM:HCPlayback ver is 5.3.5.46, 2018_05_18.
+[2018-09-04 00:01:03.086][DBG] load[D:\杂项\学科学习\深度学习\new Python3 车牌识别 - 副本\lib_new\win64\HCNetSDKCom/HCIndustry.dll] succ
+[2018-09-04 00:01:03.086][INF] The COM:HCIndustry ver is 5.3.5.46, 2018_05_18.
+[2018-09-04 00:01:03.087][DBG] load[D:\杂项\学科学习\深度学习\new Python3 车牌识别 - 副本\lib_new\win64\HCNetSDKCom/HCDisplay.dll] succ
+[2018-09-04 00:01:03.087][INF] The COM:HCDisplay ver is 5.3.5.46, 2018_05_18.
+[2018-09-04 00:01:03.088][DBG] load[D:\杂项\学科学习\深度学习\new Python3 车牌识别 - 副本\lib_new\win64\HCNetSDKCom/HCPreview.dll] succ
+[2018-09-04 00:01:03.088][INF] The COM:Preview ver is 5.3.5.46, 2018_05_18.
+[2018-09-04 00:01:03.089][DBG] load[D:\杂项\学科学习\深度学习\new Python3 车牌识别 - 副本\lib_new\win64\HCNetSDKCom/HCAlarm.dll] succ
+[2018-09-04 00:01:03.089][INF] The COM:HCAlarm ver is 5.3.5.46, 2018_05_18.
+[2018-09-04 00:01:03.092][INF] Private connect 192.168.0.101:8000 sock=1752 this=0x33b5c884 cmd=0x113305 port=31522
+[2018-09-04 00:01:03.107][DBG] set dwCommToDVR[0x113306] dwDVRReturn[0]  dwoutBufSize[76]
+[2018-09-04 00:01:03.109][INF] Private connect 192.168.0.101:8000 sock=1844 this=0x33b5c884 cmd=0x113306 port=31523
+[2018-09-04 00:01:03.247][INF] Private connect 192.168.0.101:8000 sock=2092 this=0x33b5c884 cmd=0x30009 port=31524
+[2018-09-04 00:01:05.790][INF] Private connect 192.168.0.101:8000 sock=2008 this=0x33b5c884 cmd=0x30009 port=31528
+[2018-09-04 00:01:06.835][INF] Private connect 192.168.0.101:8000 sock=2316 this=0x33b5c884 cmd=0x30009 port=31529
+[2018-09-04 00:01:07.799][INF] Private connect 192.168.0.101:8000 sock=1752 this=0x33b5c884 cmd=0x30009 port=31530
+[2018-09-04 00:01:08.864][INF] Private connect 192.168.0.101:8000 sock=2316 this=0x33b5c884 cmd=0x30009 port=31531
+[2018-09-04 00:01:10.024][INF] Private connect 192.168.0.101:8000 sock=1696 this=0x33b5c884 cmd=0x30009 port=31532
+[2018-09-04 00:01:11.902][INF] Private connect 192.168.0.101:8000 sock=2328 this=0x33b5c884 cmd=0x30009 port=31533
+[2018-09-04 00:01:13.847][INF] Private connect 192.168.0.101:8000 sock=2248 this=0x33b5c884 cmd=0x30009 port=31534
+[2018-09-04 00:01:14.812][INF] Private connect 192.168.0.101:8000 sock=2332 this=0x33b5c884 cmd=0x30009 port=31536
+[2018-09-04 00:01:15.949][INF] Private connect 192.168.0.101:8000 sock=2304 this=0x33b5c884 cmd=0x30009 port=31537
+[2018-09-04 00:01:17.953][INF] Private connect 192.168.0.101:8000 sock=2300 this=0x33b5c884 cmd=0x30009 port=31539
+[2018-09-04 00:01:19.913][INF] Private connect 192.168.0.101:8000 sock=2360 this=0x33b5c884 cmd=0x30009 port=31541
+[2018-09-04 00:01:21.868][INF] Private connect 192.168.0.101:8000 sock=2008 this=0x33b5c884 cmd=0x30009 port=31542
+[2018-09-04 00:01:23.013][INF] Private connect 192.168.0.101:8000 sock=2380 this=0x33b5c884 cmd=0x30009 port=31543
+[2018-09-04 00:01:25.195][INF] Private connect 192.168.0.101:8000 sock=2340 this=0x33b5c884 cmd=0x30009 port=31545
+[2018-09-04 00:01:26.896][INF] Private connect 192.168.0.101:8000 sock=2008 this=0x33b5c884 cmd=0x30009 port=31546
+[2018-09-04 00:01:27.943][INF] Private connect 192.168.0.101:8000 sock=2360 this=0x33b5c884 cmd=0x30009 port=31547
+[2018-09-04 00:01:30.020][INF] Private connect 192.168.0.101:8000 sock=2368 this=0x33b5c884 cmd=0x30009 port=31548
+[2018-09-04 00:01:31.855][INF] Private connect 192.168.0.101:8000 sock=2008 this=0x33b5c884 cmd=0x30009 port=31549
+[2018-09-04 00:01:32.907][INF] Private connect 192.168.0.101:8000 sock=2332 this=0x33b5c884 cmd=0x30009 port=31550
+[2018-09-04 00:01:34.964][INF] Private connect 192.168.0.101:8000 sock=2284 this=0x33b5c884 cmd=0x30009 port=31551
+[2018-09-04 00:01:36.880][INF] Private connect 192.168.0.101:8000 sock=2308 this=0x33b5c884 cmd=0x30009 port=31553
+[2018-09-04 00:01:38.278][INF] Private connect 192.168.0.101:8000 sock=2316 this=0x33b5c884 cmd=0x30009 port=31554
+[2018-09-04 00:01:39.803][INF] Private connect 192.168.0.101:8000 sock=2368 this=0x33b5c884 cmd=0x30009 port=31555
+[2018-09-04 00:01:40.883][INF] Private connect 192.168.0.101:8000 sock=1752 this=0x33b5c884 cmd=0x30009 port=31556
+[2018-09-04 00:01:41.888][INF] Private connect 192.168.0.101:8000 sock=2304 this=0x33b5c884 cmd=0x30009 port=31558
+[2018-09-04 00:01:43.222][INF] Private connect 192.168.0.101:8000 sock=2304 this=0x33b5c884 cmd=0x30009 port=31559
+[2018-09-04 00:01:45.066][INF] Private connect 192.168.0.101:8000 sock=2256 this=0x33b5c884 cmd=0x30009 port=31561
+[2018-09-04 00:01:46.837][INF] Private connect 192.168.0.101:8000 sock=2252 this=0x33b5c884 cmd=0x30009 port=31563
+[2018-09-04 00:01:47.864][INF] Private connect 192.168.0.101:8000 sock=2324 this=0x33b5c884 cmd=0x30009 port=31564
+[2018-09-04 00:01:48.842][INF] Private connect 192.168.0.101:8000 sock=2296 this=0x33b5c884 cmd=0x30009 port=31566
+[2018-09-04 00:01:49.945][INF] Private connect 192.168.0.101:8000 sock=2308 this=0x33b5c884 cmd=0x30009 port=31567
